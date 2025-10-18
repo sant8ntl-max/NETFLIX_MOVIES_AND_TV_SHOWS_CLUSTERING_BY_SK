@@ -13,7 +13,7 @@ Understanding what type content is available in different countries.
 Is Netflix has increasingly focusing on TV rather than movies in recent years.
 
 Clustering similar content by matching text-based features.
-[13:04, 18/10/2025] Chat Gpt: 
+
 🎬 NETFLIX MOVIES AND TV SHOWS CLUSTERING
 
 📌 Project Overview
@@ -23,8 +23,7 @@ This project focuses on unsupervised learning using clustering techniques to gro
 ---
 
 📁 Dataset
-
-- Source: Kaggle – Netflix Movies and TV Shows Dataset  
+ Netflix Movies and TV Shows Dataset  
 - Attributes Used:
   - title, type, genre, duration, release_year, country, rating
 
